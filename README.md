@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ian Kisali
-- 👀 I’m interested in Software Engineering and Data Science.
-- 🌱 I’m currently learning Python and C++ Programming Languages. 
+-  Hi, I’m Ian Kisali
+-  I’m interested in Software Engineering and Data Science.
+-  I’m currently learning Python and C++ Programming Languages. 
 
 
 <!---
