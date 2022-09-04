@@ -34,7 +34,8 @@ problems and building innovative software & hardware solutions.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankisali&&theme=tokyonight" alt="iankisali" />
 
-<br />
+<br>
+<br>
 
 [![Kisali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iankisali&&theme=xcode)](https://github.com/iankisali)
 
