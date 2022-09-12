@@ -37,7 +37,7 @@ problems and building innovative software & hardware solutions.
 <br>
 <br>
 
-[![Kisali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iankisali&&theme=xcode)](https://github.com/iankisali)
+<!--[![Kisali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iankisali&&theme=xcode)](https://github.com/iankisali)-->
 
 </div>
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iankisali&theme=merko)-->
