@@ -15,6 +15,7 @@ problems and building innovative software & hardware solutions.
 
 - 🔭 Check out my portfolio [here](https://iankisali.github.io/)
 - 🔭 Currently studying Software Engineering at ALX-Africa & Electrical and Electronics Engineering at University of Nairobi, Kenya.
+- 🌱 Working on Data Structures and Algorithms in C. Check out [here](https://github.com/iankisali/C-Data-Structures-Algorithms) 
 - 🌱 I’m currently learning HTML,CSS,Javasript and C.
 - 👯 I’m looking forward to collaborate in open source projects
 - 📫 Reach me **iankisali@gmail.com**
