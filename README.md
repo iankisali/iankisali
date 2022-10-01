@@ -6,25 +6,35 @@
 
 <p align="center"> <a href="https://twitter.com/iankisali_" target="blank"><img src="https://img.shields.io/twitter/follow/iankisali_?color=1DA1F2&logo=twitter&style=for-the-badge" alt="iankisali_" /></a> </p>
 
+---
+
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/iankisali_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2iankisali_&screen_name=iankisali_)-->
+
 
 Knowledgeable engineering student with basic skills in
 programming seeking to contribute my acquired skills aimed at solving
 problems and building innovative software & hardware solutions.
 
 
-- 🔭 Check out my portfolio [here](https://iankisali.github.io/)
-- 🔭 Currently studying Software Engineering at ALX-Africa & Electrical and Electronics Engineering at University of Nairobi, Kenya.
-- 🌱 Working on Data Structures and Algorithms in C. Check out [here](https://github.com/iankisali/C-Data-Structures-Algorithms) 
-- 🌱 I’m currently learning HTML,CSS,Javasript and C.
-- 👯 I’m looking forward to collaborate in open source projects
+- 🔭 Currently studying **Software Engineering** at **ALX-Africa** & **Electrical and Electronics Engineering** at **University of Nairobi**, Kenya.
+
+- 🌱 Working on Data Structures and Algorithms in C. Check out **[here](https://github.com/iankisali/C-Data-Structures-Algorithms)**
+
+- 🌱 I’m currently learning **C(Programming Language)** and **Python**.
+
+- 👯 I’m looking to collaborate on **Open Source Projects**. Currently participating in **Hacktober Fest 2022**
+
 - 📫 Reach me **iankisali@gmail.com**
 
-## Connect with me:
+---
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://iankisali.github.io/)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://iankisali.github.io/Ian-Kisali-Resume.html) </span>
 
+
+## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ian-kisali-bb4164209/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IanKisali_) 
 
+---
 
 <!-- BLOG-POST-LIST:START -->
 ## 💻 My Stats:
@@ -42,6 +52,8 @@ problems and building innovative software & hardware solutions.
 
 </div>
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iankisali&theme=merko)-->
+
+---
 
 <!---
 iankisali/iankisali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
