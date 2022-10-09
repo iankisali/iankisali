@@ -18,9 +18,9 @@ problems and building innovative software & hardware solutions.
 
 - 🔭 Currently studying **Software Engineering** at **ALX-Africa** & **Electrical and Electronics Engineering** at **University of Nairobi**, Kenya.
 
-- 🌱 Working on Data Structures and Algorithms in C. Check out **[here](https://github.com/iankisali/C-Data-Structures-Algorithms)**
-
 - 🌱 I’m currently learning **C(Programming Language)** and **Python**.
+
+- 🌱 Working on Data Structures and Algorithms in C. Check out **[here](https://github.com/iankisali/C-Data-Structures-Algorithms)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**. Currently participating in **Hacktober Fest 2022**
 
