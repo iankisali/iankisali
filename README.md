@@ -11,9 +11,8 @@
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/iankisali_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2iankisali_&screen_name=iankisali_)-->
 
 
-Knowledgeable engineering student with basic skills in
-programming seeking to contribute my acquired skills aimed at solving
-problems and building innovative software & hardware solutions.
+Engineering student with basic skills in
+Software and Electronics seeking to contribute my acquired skills aimed at solving problems and building innovative software & hardware solutions.
 
 
 - 🔭 Currently studying **Software Engineering** at **ALX-Africa** & **Electrical and Electronics Engineering** at **University of Nairobi**, Kenya.
@@ -25,7 +24,6 @@ problems and building innovative software & hardware solutions.
 - 👯 I’m looking to collaborate on **Open Source Projects**. Currently participating in **Hacktober Fest 2022**
 
 - 📫 Reach me **iankisali@gmail.com**
-
 ---
 <span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://iankisali.github.io/)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://iankisali.github.io/Ian-Kisali-Resume.html) </span>
 
