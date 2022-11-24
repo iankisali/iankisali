@@ -36,10 +36,10 @@ Software and Electronics seeking to contribute my acquired skills aimed at solvi
 
 <!-- BLOG-POST-LIST:START -->
 ## 💻 My Stats:
-<div align="center">
+<!--<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iankisali&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankisali&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankisali&layout=compact&langs_count=7&theme=github_dark"/>-->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankisali&&theme=tokyonight" alt="iankisali" />
 
