@@ -1,6 +1,6 @@
 <!--<h1 align="center">Hi there 👋, I'm Ian Kisali</h1>-->
 
-<h1 align = "center">
+<!--<h1 align = "center">
 <img src="header.svg" />
 </h1>
 
@@ -29,6 +29,7 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+
 ## 💻 My Stats:
 <div align="center">
 
