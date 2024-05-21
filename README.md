@@ -45,6 +45,7 @@
 ## 📖 Articles:
 
 1. [Microservices Deployment using Kubernetes Managed Service(AWS EKS)](https://medium.com/@iankisali/microservices-deployment-using-kubernetes-managed-service-aws-eks-151bb2bfc520)
+2. [Browser 101: How DNS And TCP Translate Your Searches Into Sites](https://medium.com/@iankisali/browser-101-how-dns-and-tcp-translate-your-searches-into-sites-b5e55730bddd)
 
 
 
